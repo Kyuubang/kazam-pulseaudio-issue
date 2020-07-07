@@ -1,5 +1,7 @@
 # Can not record audio with kazam in Ubuntu 20.04 #
-<img src="https://github.com/Kyuubang/kazam-pulseaudio-issue/blob/master/kazam-screencast.png" align="center" />
+<p align=center>
+  <img src="https://github.com/Kyuubang/kazam-pulseaudio-issue/blob/master/kazam-screencast.png" align="center" />
+</p>
 
 ## Detail ##
 OS : Ubuntu 20.04 <br />
